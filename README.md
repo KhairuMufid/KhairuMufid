@@ -4,7 +4,7 @@ My name is **Muhammad Khairu Mufid**.<br>
  
 I'm a **student** at [Politeknik Negeri Jakarta](https://pnj.ac.id/).<br>
  
-This is my [Linkedin Account](https://www.linkedin.com/in/muhammadkhairumufid/). Let's connect!
+Here is my [Linkedin Account](https://www.linkedin.com/in/muhammadkhairumufid/). Let's connect!
  
 ### Github Statistic
 <p align="left">
