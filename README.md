@@ -1,12 +1,10 @@
-# Halo semua! 
+# Hello There! 
  
-Perkenalkan nama saya **Muhammad Khairu Mufid**.<br>
+My name is **Muhammad Khairu Mufid**.<br>
  
-Saya seorang **Mahasiswa** di [Politeknik Negeri Jakarta](https://pnj.ac.id/).<br>
+I'm a **student** at [Politeknik Negeri Jakarta](https://pnj.ac.id/).<br>
  
-Saya mengambil program studi D4 Teknik Multimedia dan Jaringan, Jurusan Teknik Informatika dan Komputer.<br>
- 
-Berikut adalah akun [Linkedin](https://www.linkedin.com/in/muhammadkhairumufid/) saya. Let's connect!
+This is my [Linkedin Account](https://www.linkedin.com/in/muhammadkhairumufid/). Let's connect!
  
 ### Github Statistic
 <p align="left">
